@@ -1,0 +1,1 @@
+Zbiór przykładowych zgłoszeń błędów oprogramowania
